@@ -7,3 +7,4 @@ edition = "2018"
 [dependencies]
 structopt = "0.3"
 git-version = "0.3"
+rustc-hash = "1.1"
